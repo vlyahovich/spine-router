@@ -1,6 +1,6 @@
 {
   "name": "spine-router",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Routing system for SPA",
   "author": {
     "name": "Vadim Liakhovich",
